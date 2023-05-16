@@ -76,9 +76,6 @@ DEV Skills
     <a href="https://azure.microsoft.com/en-in/" target="_blank" title ="Azure"> <img
             src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
             alt="azure" width="50" height="35" /> </a>
-    <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a>
     <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" /> </a>
@@ -186,5 +183,5 @@ DEV Skills
     <a href="https://open.spotify.com/show/4FlvnIekSxBi1Oq73V3pEO?uid=adc3714e4b7bf1671d7b&uri=spotify%3Aepisode%3A2gbZ4OtMRYEhvfvp4s1oFi">
         <img width= "1000" height= "200" align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?color=ff5722&center=true&vCenter=true&width=550%&lines=Wanna+listen+to+my+favourite+playlist+ever?" />
 </div>
-<img align="right" alt="Spotify Now Playing" width=1000 height=500 src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/default.svg" /></a>
+<img align="right" alt="Spotify Now Playing" width=1000 height=500 src="https://github.com/DebjyotiRay/DebjyotiRay/blob/main/default.svg" /></a>
 
