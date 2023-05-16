@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="center" style="display: inline">
 <img src="https://img.shields.io/github/followers/DebjyotiRay?style=for-the-badge">
 <img src="https://img.shields.io/github/stars/DebjyotiRay?style=for-the-badge">
-<a href="https://www.linkedin.com/in/debjyotiray5811"><img src="https://img.shields.io/badge/-Anuvab-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debjyotiray5811/)](https://www.linkedin.com/in/debjyotiray5811"></a>
+<a href="https://www.linkedin.com/in/debjyotiray5811"><img src="https://img.shields.io/badge/-Debjyoti-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debjyotiray5811/)](https://www.linkedin.com/in/debjyotiray5811"></a>
 <!-- <a href="https://anuvab-sen.netlify.app/">
  <img src="https://img.shields.io/badge/Portfolio%20-%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a> -->
