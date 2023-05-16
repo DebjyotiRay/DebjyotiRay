@@ -73,9 +73,6 @@ DEV Skills
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
-            src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
-            alt="android studio" width="40" height="40" /> </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" title ="Azure"> <img
             src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
             alt="azure" width="50" height="35" /> </a>
@@ -91,9 +88,6 @@ DEV Skills
     <a href="https://www.w3schools.com/css/" target="_blank" title ="CSS">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a>
-    <a href="https://expressjs.com" target="_blank" title ="Express.js"> <img
-            src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2"
-            alt="express" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank" title ="git"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://www.w3.org/html/" target="_blank" title ="html"> <img
@@ -125,7 +119,6 @@ DEV Skills
     </a>
 </div>
 
-
 - 👨‍💻 All of my projects are available at
 [https://github.com/DebjyotiRay/](https://github.com/DebjyotiRay/)
 
@@ -136,8 +129,6 @@ DEV Skills
 
 <br>
 <br>
-
-
     🎥 Few of my competitive programming profiles  :
 ---
 
@@ -160,8 +151,8 @@ DEV Skills
  
 <table>
 <tr>
-<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="600" hieght="250" src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" alt="DEV's wakatime" /></a>
-<td align="center"<a href="" title="Go to Source"><img src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400" hieght="250"/></a>
+<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="600" hieght="250" src="https://github-readme-stats.vercel.app/api/wakatime?username=DebjyotiRay&theme=react&border_color=61dafb&langs_count=13" alt="DEV's wakatime" /></a>
+<td align="center"<a href="" title="Go to Source"><img src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400" height="250"/></a>
 </table>
 
 
