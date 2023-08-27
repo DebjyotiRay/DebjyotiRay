@@ -161,7 +161,7 @@ DEV Skills
 </div>
 <hr>
 
-
+[![DebjyotiRay's GitHub | Topics Over Time](https://stats.quine.sh/DebjyotiRay/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DebjyotiRay)
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=DebjyotiRay&theme=react-dark&hide_border=true&area=true) -->
 
 <h3 align="center">Connect with me:</h3>
