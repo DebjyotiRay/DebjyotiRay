@@ -65,7 +65,7 @@ DEV Skills
 👀 I am primarily interested in Machine Learning & Open-Source
 <br>
 <br>
-🌱 I’m currently learning Computer Vision and Reinforcement Learning
+🌱 I’m currently learning Natural Language Processing and Reinforcement Learning with a knack in Quant
 <br>
 <br>
 💞️ I’m looking forward to collaborate on GitHub with other open source enthusiasts .
