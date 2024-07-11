@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" hieght="70" width="310" alt="hellogif">
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" hieght = "20" width="40"/>  I'm DEV. Stranded on my page, eh? Have a good tour!</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" hieght = "20" width="40"/>  I'm Dev. Stranded on my page, eh? Have a good tour!</h1>
 <br>
 <h3 align="center" >MACHINE LEARNING ~ OPEN SOURCE ~ COMPUTER VISION ~ REINFORCEMENT LEARNING ~ ALGORITHMIC TRADING ~ FINANCIAL MODELS</h3>
 
